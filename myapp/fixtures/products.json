@@ -1,0 +1,93 @@
+[
+    {
+      "model": "myapp.product",
+      "pk": 1,
+      "fields": {
+        "name": "iPhone 15",
+        "price": "1200.00",
+        "description": "The latest flagship smartphone from Apple with advanced features and technology."
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 2,
+      "fields": {
+        "name": "PC",
+        "price": "800.00",
+        "description": "A powerful personal computer for gaming, work, and entertainment."
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 3,
+      "fields": {
+        "name": "PS5",
+        "price": "500.00",
+        "description": "Next-generation gaming console from Sony, offering high-performance gaming and entertainment."
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 4,
+      "fields": {
+        "name": "Xbox Series X",
+        "price": "500.00",
+        "description": "Microsoft's flagship gaming console with cutting-edge hardware and features."
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 5,
+      "fields": {
+        "name": "iPad",
+        "price": "600.00",
+        "description": "Apple's popular tablet device, perfect for productivity, creativity, and entertainment."
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 6,
+      "fields": {
+        "name": "Sony XM5",
+        "price": "300.00",
+        "description": "High-quality wireless headphones with noise-cancelling technology from Sony."
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 7,
+      "fields": {
+        "name": "Xbox Controller",
+        "price": "60.00",
+        "description": "Official wireless controller for Xbox gaming consoles, designed for comfort and precision."
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 8,
+      "fields": {
+        "name": "Nintendo Switch",
+        "price": "300.00",
+        "description": "Versatile gaming console from Nintendo that can be used as a handheld or connected to a TV."
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 9,
+      "fields": {
+        "name": "Valve Index",
+        "price": "1000.00",
+        "description": "Premium virtual reality headset with advanced features for immersive gaming experiences."
+      }
+    },
+    {
+      "model": "myapp.product",
+      "pk": 10,
+      "fields": {
+        "name": "Steam Deck",
+        "price": "400.00",
+        "description": "Portable gaming device from Valve, designed to run PC games on the go."
+      }
+    }
+  ]
+  
