@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ product.name }}</title>
+    </head>
+
+    <body>
+        <h1>{{ product.name }}</h1>
+        <p>{{ product.price }}</p>
+        <p>{{ product.description }}</p>
+        <p><a href="{% url 'products_index' %}">Go Back</a></p>
+    </body>
+</html>

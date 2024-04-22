@@ -62,6 +62,7 @@
                     <tr>
                         <td>{{ product.name }}</td>
                         <td>${{ product.price }}</td>
+                        <td><a href="{% url 'product_detail' product.id %}">Show Details</a></td>
                     </tr>
                 {% endfor %}
             </tbody>
